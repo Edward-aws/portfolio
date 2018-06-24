@@ -3,7 +3,7 @@ version: 0.1
 phases:
   build:
     commands:
-      - npm instal
+      - npm install
       - npm run webpack
 artifacts:
       files:
